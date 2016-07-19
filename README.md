@@ -1,4 +1,4 @@
-# Lecture Topics
+# Lecture Topics - We talked about this process with Albert on 6/19/16
 
 The course syllabus (and setup instructions) can be found
 [here](http://rudeboybert.github.io/teaching/courses/MATH216/2016-02.html).
